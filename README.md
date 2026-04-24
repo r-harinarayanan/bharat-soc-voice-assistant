@@ -304,4 +304,4 @@ This project is open source. Feel free to fork, extend, and deploy. If you use t
 
 ---
 
-*Built with ❤️ at Amrita Vishwa Vidyapeetham, Chennai — Bharat AI-SoC Student Challenge 2026*
+
